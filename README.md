@@ -22,5 +22,6 @@
 ### -- 💌Socials:
    • Discord - Snxhit_#5784<br>
    • [Instagram](https://www.instagram.com/_snehit._/)<br>
+   • [Itch.io](https://www.snxhit.itch.io/)<br>
 
 ## Thank you for reading!
