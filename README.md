@@ -6,22 +6,25 @@
    • `CSS`<br>
     
 ### ✨Projects:
+   • [GrinShot - Shooter](https://github.com/Snxhit/GrinShot)<br>
    • [TBAG - Text Based Adventure Game](https://github.com/Snxhit/TBAG)<br>
    • [snxhit.github.io](https://snxhit.github.io/)<br>
    • [Mellow! The BetterDiscord Theme](https://github.com/Snxhit/Mellow-BDTheme)<br>
     
 ### 🏀Hobbies:
    • Basketball<br>
-   • Badminton<br>
+   • Pixel art<br>
    • Game developement<br>
    
 ### ⭐Working on/Learning:
    • Python<br>
+   • Lua<br>
    • Piexx - An adventure game<br>
    
 ### 💌Socials:
    • Discord - Snxhit_#5784<br>
    • [Instagram](https://www.instagram.com/_snehit._/)<br>
+   • [GitHub](https://www.github.com/)<br>
    • [Itch.io](https://snxhit.itch.io/)<br><br>
 
 ## Thank you for reading!
