@@ -4,6 +4,8 @@
    • `Python`<br>
    • `HTML`<br>
    • `CSS`<br>
+   • `Javascript`<br>
+   • `Lua`<br>
     
 ### ✨Projects:
    • [GrinShot - Shooter](https://github.com/Snxhit/GrinShot)<br>
@@ -17,10 +19,9 @@
    • Game developement<br>
    
 ### ⭐Working on/Learning:
-   • Python<br>
-   • Lua<br>
-   • Piexx - An adventure game<br>
-   
+   • C<br>
+   • MySQL<br>
+      
 ### 💌Socials:
    • Discord - Snxhit_#5784<br>
    • [Instagram](https://www.instagram.com/_snehit._/)<br>
