@@ -23,7 +23,7 @@
    • MySQL<br>
       
 ### 💌Socials:
-   • Discord - Snxhit_#5784<br>
+   • Discord - snxhit<br>
    • [Instagram](https://www.instagram.com/_snehit._/)<br>
    • [GitHub](https://www.github.com/Snxhit)<br>
    • [Itch.io](https://snxhit.itch.io/)<br><br>
