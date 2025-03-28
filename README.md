@@ -1,5 +1,7 @@
 <p align="center"><img alt="Snxhit!" src="https://user-images.githubusercontent.com/74500652/218274754-579ff9e3-a032-4b1f-a6d5-0e7e16e77804.png">
 
+## Profile very outdated, changes soon :)
+
 ### 🖥️Languages: 
    • `Python`<br>
    • `HTML`<br>
