@@ -35,7 +35,7 @@
 ---
 
 ### ✨ Projects
-- **ForlornMUD** - Text based multiplayer game written in Go
+- **ForlornMUD** - Text based multiplayer game written in Go  
   ![ForlornMUD Time Tracking](https://img.shields.io/badge/ForlornMUD-87h%2014m-critical?logo=neovim&style=plastic)
 - **SombreOS** – Operating system written in Rust  
   ![SombreOS WakaTime](https://wakatime.com/badge/user/ccc5e93f-a02f-4771-b405-f4e3f832d936/project/a0af1189-f31e-44b7-b571-064f3398bc31.svg)
