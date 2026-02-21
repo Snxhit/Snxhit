@@ -6,8 +6,8 @@
 ---
 
 ### 🖥️ Languages & Tech
-- **Primary:** `Rust`, `Python`, `JavaScript`  
-- **Other:** `C`, `C#`, `Lua`, `HTML`, `CSS`, `x86_64 Assembly`  
+- **Primary:** `Rust`, `Golang`, `Python`
+- **Other:** `C`, `C#`, `Lua`, `JavaScript`, `x86_64 Assembly`  
 - **Learning:** SQL, Reverse Engineering, Web Hacking Fundamentals  
 
 **Languages & Tools Badges:**  
@@ -28,13 +28,15 @@
 ---
 
 ### 🛠️ Tools
-- **OS / Dev Environment:** Lubuntu  
+- **OS / Dev Environment:** Arch (CachyOS)  
 - **Editor:** Neovim  
 - **Main Language / Platform:** Rust  
 
 ---
 
 ### ✨ Projects
+- **ForlornMUD** - Text based multiplayer game written in Go
+  ![ForlornMUD Time Tracking](https://img.shields.io/badge/ForlornMUD-87h%2014m-critical?logo=neovim&style=plastic)
 - **SombreOS** – Operating system written in Rust  
   ![SombreOS WakaTime](https://wakatime.com/badge/user/ccc5e93f-a02f-4771-b405-f4e3f832d936/project/a0af1189-f31e-44b7-b571-064f3398bc31.svg)
 - **Lamentable** – Programming language written in Rust  
