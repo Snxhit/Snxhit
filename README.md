@@ -5,7 +5,7 @@
 
 ---
 
-### 🖥️ Languages & Tech
+### Languages & Tech
 - **Primary:** `Rust`, `Golang`, `Python`
 - **Other:** `C`, `C#`, `Lua`, `JavaScript`, `x86_64 Assembly`  
 - **Learning:** SQL, Reverse Engineering, Web Hacking Fundamentals  
@@ -27,14 +27,14 @@
 
 ---
 
-### 🛠️ Tools
+### Tools
 - **OS / Dev Environment:** Arch (CachyOS)  
 - **Editor:** Neovim  
-- **Main Language / Platform:** Rust  
+- **Main Language / Platform:** Go & Rust  
 
 ---
 
-### ✨ Projects
+### Projects
 - **ForlornMUD** - Text based multiplayer game written in Go  
   ![ForlornMUD Time Tracking](https://img.shields.io/badge/ForlornMUD-87h%2014m-critical?logo=neovim&style=plastic)
 - **SombreOS** – Operating system written in Rust  
@@ -54,7 +54,7 @@
 
 ---
 
-### 📈 Personal Stats
+### Personal Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Snxhit&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
@@ -63,7 +63,7 @@
 
 ---
 
-### 💬 Connect
+### Connect
 <p align="center">
   <a href="https://github.com/Snxhit">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
