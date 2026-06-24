@@ -7,7 +7,7 @@
 
 ### Languages & Tech
 - **Primary:** `Rust`, `Golang`, `Python`
-- **Other:** `C`, `C#`, `Lua`, `JavaScript`, `x86_64 Assembly`  
+- **Other:** `C`, `C#`, `Lua`, `GLSL`, `JavaScript`, `x86_64 Assembly`  
 - **Learning:** SQL, Reverse Engineering, Web Hacking Fundamentals  
 
 **Languages & Tools Badges:**  
@@ -37,6 +37,8 @@
 ### Projects
 - **ForlornMUD** - Text based multiplayer game written in Go  
   ![ForlornMUD Time Tracking](https://img.shields.io/badge/ForlornMUD-130h%2017m-critical?logo=neovim&style=plastic)
+- **Quaint-Shaders** - Minecraft shaders written in GLSL  
+  ![Quaint Time Tracking](https://img.shields.io/badge/QuaintShaders-27h%2013m-critical?logo=neovim&style=plastic)
 - **SombreOS** – Operating system written in Rust  
   ![SombreOS WakaTime](https://wakatime.com/badge/user/ccc5e93f-a02f-4771-b405-f4e3f832d936/project/a0af1189-f31e-44b7-b571-064f3398bc31.svg)
 - **Lamentable** – Programming language written in Rust  
